@@ -1,6 +1,6 @@
 <h1>Wide Coverage</h1>
 
-<h3>Esse projeto responsivo foi desenvolvido durante o curso DevClub, onde foram utilizadas linguagem de marcação de texto HTML, de estilização CSS, ferramentas como FIGMA</h3>
+<h3>Esse projeto responsivo foi desenvolvido durante o curso DevClub, onde foram utilizadas linguagem de marcação de texto HTML, de estilização CSS e ferramentas como FIGMA</h3>
 
 
 
